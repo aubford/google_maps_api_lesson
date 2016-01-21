@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100vh;
+}
+
+a {
+  color: #00B7FF;
+  display: flex;
+}
+#map {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+h1 {
+  margin: auto;
+  margin-bottom: 0px; 
+}
